@@ -4,9 +4,10 @@ Dealogicnál dolgozó csapat motivációs hullámvasútjának, és szakmai fejl�
 
 Thursday, November 28, 2019
 6:30 PM to 8:30 PM
+
 Dealogic Hungary Kft
 Teréz krt. 55 · Budapest
 B épület, 6. emelet.
 
-[Presentation](https://github.com/oliverkocsis/Turn-the-team-around---Budapest-Agile-Meetup-Dealogic/blob/master/Turn%20The%20Team%20Around.pdf)
-[Video](https://www.facebook.com/SprintC/videos/568964767170724/)
+- [Presentation](https://github.com/oliverkocsis/Turn-the-team-around---Budapest-Agile-Meetup-Dealogic/blob/master/Turn%20The%20Team%20Around.pdf)
+- [Video](https://www.facebook.com/SprintC/videos/568964767170724/)
